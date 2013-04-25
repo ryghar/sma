@@ -1,0 +1,67 @@
+#footer {
+	background: #f5f5f5 url(../images/bg-footer.gif) repeat-x top left;	
+	margin: 0;
+	min-width: 960px;
+	padding: 0;
+}
+#footer div {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 26px 0 0;	
+	width: 960px;
+}
+#footer div div {
+	float: left;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 192px;	
+}
+#footer div div h3 {
+	color: #818a8c;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	padding: 0;
+	text-transform: uppercase;
+}
+#footer div div ul,
+#footer div div ul li {
+	margin: 0;
+	list-style: none;
+	padding: 0;	
+}	
+#footer div div ul li {
+	font-size: 12px;
+	line-height: 22px;
+	color: #818a8c;	
+}
+#footer div a.facebook,
+#footer div a.twitter {
+	display: block;
+	float: left;
+	height: 27px;
+	margin: 10px 0 0;
+	text-indent: -99999em;
+	width: 40px;	
+}
+#footer div a.facebook,
+#footer div a.twitter {
+	
+}
+#footer div a.facebook {
+	background-position: 0 0;
+	margin: 10px 0 0 58px;
+	_margin: 10px 0 0 28px;
+}
+#footer div a.twitter {
+	background-position: 0 -37px;
+}
+#footer div p {
+	color: #c1c1c1;
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 30px 0;
+	text-align: center;	
+	text-shadow: 1px 1px 1px #fff;
+}

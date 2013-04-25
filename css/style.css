@@ -1,0 +1,156 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin:0;
+	padding: 0;	
+}
+#divimagenhome{
+	width: 300px;
+	float:left;
+	min-height: 250px;
+	float: left;
+}
+#divregistro{
+	width: 300px;
+	min-height: 250px;
+	margin-left:300px;
+
+}
+
+#body {
+	background: url(../images/bg-content.gif) repeat-x top left;
+	margin: 0;
+	padding: 0;	
+	min-width: 960px;
+}
+#body .header {
+	background: url(../images/bg-body.gif) repeat-x bottom center;	
+	margin: 0 0 30px 0;
+}
+
+
+#body .header div h3 {
+	color: #2a4f5e;	
+	font-size: 20px;
+	line-height: 30px;
+	margin: 18px 0 0 0;
+	padding: 0;
+	text-shadow: 1px 1px 1px #fff;
+}
+#body .header div h3 span {
+	display: block;	
+	font-size: 25px;
+}
+#body .header div h3 a {
+	color: #2a4f5e;
+	text-decoration: none;	
+}
+#body .header div h3 a:hover {
+	color: #507685;	
+}
+#body .header div p {
+	color: #507685;
+	font-size: 14px;
+	line-height: 24px;
+	margin: 12px 0 6px 0;
+	padding: 0;	
+	text-shadow: 1px 1px 1px #fff;
+}
+#body .header div p a {
+	color: #507685;	
+}
+#body .header div p a:hover {
+	color: #2a4f5e;	
+}
+#body .header ul {
+	overflow: hidden;
+	margin: 0;
+	padding: 49px 0 0;
+}
+#body .header ul li {
+	float: left;	
+	list-style: none;
+	padding: 0 5px;
+}
+
+
+
+
+/*login form*/
+.FormValida {
+	margin:0 auto;
+	width:500px;
+	padding:14px;
+}
+.FormLoginHome {
+	margin:0 auto;
+	width:500px;
+}
+.FormLoginHome label {
+	float: left;
+	margin-right: 0.5em;
+	display: block
+}
+label {
+	width: 10em;
+	float: left;
+	margin-right: 0.5em;
+	display: block
+}
+
+fieldset {
+	background:#EBF4FB none repeat scroll 0 0;
+	border:2px solid #B7DDF2;
+	-webkit-border-radius: 5px;
+	width: 500px;
+	height: 340px;
+}
+legend {
+	color: #fff;
+	background: #80D3E2;
+	border: 1px solid #781351;
+	-webkit-border-radius: 3px;
+	padding: 2px 6px
+}
+.elements {
+	padding:10px;
+}
+
+p {
+	color:#666666;
+	font-size:11px;
+	margin-bottom:20px;
+	padding-bottom:10px;
+}
+.line {
+	border-bottom:1px solid #B7DDF2;
+}
+a{
+    color:#0099FF;
+	font-weight:bold;
+}
+.submit input {
+	margin-left: 170px;
+	margin-top: 40px;
+}
+.SubmitButton
+{
+	border-top:		2px solid #a3ceda;
+	border-left:	2px solid #a3ceda;
+	border-right:	2px solid #4f6267;
+	border-bottom:	2px solid #4f6267;
+	padding:		5px 20px;
+	margin-left:	40px;
+	font-size:		12px;
+	background: 	#80D3E2;
+	-webkit-border-radius: 3px;
+	text-align:		center;
+}
+.FormValida label.error {
+
+	width: auto;
+	display: inline;
+	float: right;
+	color: red;
+}
+
